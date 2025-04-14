@@ -1,1 +1,5 @@
 Este é um arquivo de teste
+
+ALTERAÇÃO FEITA DIRETAMENTE NO GITHUB:
+- Data: [insira a data atual]
+- Autor: [seu usuário GitHub]
