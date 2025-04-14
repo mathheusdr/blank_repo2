@@ -3,3 +3,4 @@ Este é um arquivo de teste
 ALTERAÇÃO FEITA DIRETAMENTE NO GITHUB:
 - Data: [insira a data atual]
 - Autor: [seu usuário GitHub]
+Alteração do Aluno 1: Mon Apr 14 20:14:46 -03 2025
